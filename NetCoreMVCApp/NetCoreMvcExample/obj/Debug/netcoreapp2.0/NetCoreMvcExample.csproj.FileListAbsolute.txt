@@ -1,0 +1,11 @@
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\bin\Debug\netcoreapp2.0\NetCoreMvcExample.deps.json
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\bin\Debug\netcoreapp2.0\NetCoreMvcExample.runtimeconfig.json
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\bin\Debug\netcoreapp2.0\NetCoreMvcExample.runtimeconfig.dev.json
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\bin\Debug\netcoreapp2.0\NetCoreMvcExample.dll
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\bin\Debug\netcoreapp2.0\NetCoreMvcExample.pdb
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\NetCoreMvcExample.csprojAssemblyReference.cache
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\NetCoreMvcExample.csproj.CoreCompileInputs.cache
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\NetCoreMvcExample.AssemblyInfoInputs.cache
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\NetCoreMvcExample.AssemblyInfo.cs
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\NetCoreMvcExample.dll
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\NetCoreMvcExample.pdb
