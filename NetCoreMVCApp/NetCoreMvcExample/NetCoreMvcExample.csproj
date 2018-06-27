@@ -8,4 +8,21 @@
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Common.Data">
+      <HintPath>..\..\dll\Common.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonHelperEntity">
+      <HintPath>..\..\dll\CommonHelperEntity.dll</HintPath>
+    </Reference>
+    <Reference Include="Domain.CommonData">
+      <HintPath>..\..\dll\Domain.CommonData.dll</HintPath>
+    </Reference>
+    <Reference Include="Domain.GlobalModel">
+      <HintPath>..\..\dll\Domain.GlobalModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Infrastructure.ExtService">
+      <HintPath>..\..\dll\Infrastructure.ExtService.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>
