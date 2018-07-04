@@ -9,3 +9,9 @@ D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\
 D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\NetCoreMvcExample.AssemblyInfo.cs
 D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\NetCoreMvcExample.dll
 D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\NetCoreMvcExample.pdb
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\bin\Debug\netcoreapp2.0\Common.Data.dll
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\bin\Debug\netcoreapp2.0\CommonHelperEntity.dll
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\bin\Debug\netcoreapp2.0\Domain.CommonData.dll
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\bin\Debug\netcoreapp2.0\Domain.GlobalModel.dll
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\bin\Debug\netcoreapp2.0\Infrastructure.ExtService.dll
+D:\CodeFile\NetCoreCode\NetCoreMVCApp\NetCoreMvcExample\obj\Debug\netcoreapp2.0\NetCoreMvcExample.csproj.CopyComplete

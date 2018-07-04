@@ -24,7 +24,12 @@
       "NetCoreMvcExample/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.8",
-          "Microsoft.NETCore.App": "2.0.0"
+          "Microsoft.NETCore.App": "2.0.0",
+          "Common.Data": "1.0.0.1",
+          "CommonHelperEntity": "1.0.0.0",
+          "Domain.CommonData": "1.0.0.0",
+          "Domain.GlobalModel": "1.0.0.0",
+          "Infrastructure.ExtService": "1.0.0.0"
         },
         "runtime": {
           "NetCoreMvcExample.dll": {}
@@ -3794,6 +3799,46 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
+      "Common.Data/1.0.0.1": {
+        "runtime": {
+          "Common.Data.dll": {}
+        },
+        "compile": {
+          "Common.Data.dll": {}
+        }
+      },
+      "CommonHelperEntity/1.0.0.0": {
+        "runtime": {
+          "CommonHelperEntity.dll": {}
+        },
+        "compile": {
+          "CommonHelperEntity.dll": {}
+        }
+      },
+      "Domain.CommonData/1.0.0.0": {
+        "runtime": {
+          "Domain.CommonData.dll": {}
+        },
+        "compile": {
+          "Domain.CommonData.dll": {}
+        }
+      },
+      "Domain.GlobalModel/1.0.0.0": {
+        "runtime": {
+          "Domain.GlobalModel.dll": {}
+        },
+        "compile": {
+          "Domain.GlobalModel.dll": {}
+        }
+      },
+      "Infrastructure.ExtService/1.0.0.0": {
+        "runtime": {
+          "Infrastructure.ExtService.dll": {}
+        },
+        "compile": {
+          "Infrastructure.ExtService.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.0.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
@@ -5979,6 +6024,31 @@
       "sha512": "sha512-W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
       "path": "windowsazure.storage/8.1.4",
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
+    },
+    "Common.Data/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonHelperEntity/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.CommonData/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.GlobalModel/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrastructure.ExtService/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.NETCore.App/2.0.0": {
       "type": "package",
